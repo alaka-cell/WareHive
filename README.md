@@ -65,11 +65,11 @@ Full schema, ER diagram, and phase-by-phase build plan are in the project propos
 
 ## Features
 
-- 🏗️ Book a storage unit for a date range, like reserving a table — except the table holds pallets
-- 📦 Log incoming and outgoing stock, with automatic inventory updates via triggers
-- 🚫 Built-in checks so nobody overbooks a unit or overstuffs it past capacity
-- 📊 Reports on occupancy, current stock levels, and revenue
-- 🔐 Role-based access — admins, warehouse staff, and company users each see only what they need to
+-  Book a storage unit for a date range, like reserving a table — except the table holds pallets
+-  Log incoming and outgoing stock, with automatic inventory updates via triggers
+-  Built-in checks so nobody overbooks a unit or overstuffs it past capacity
+-  Reports on occupancy, current stock levels, and revenue
+-  Role-based access — admins, warehouse staff, and company users each see only what they need to
 
 ---
 
